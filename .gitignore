@@ -22,3 +22,6 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# No quiero dar seguimiento a las cartas
+assets/cartas

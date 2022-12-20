@@ -4,9 +4,12 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --host",
     "build": "vite build",
     "preview": "vite preview"
+  },
+  "dependencies": {
+    "underscore": "^1.13.6"
   },
   "devDependencies": {
     "vite": "^4.0.0"
